@@ -9,8 +9,9 @@ Buzzer connections:
    * + pin to 2
    * - to -
    * 
+   * ***********************
  I went and customized the tune from a basic scale walkthrough in C-major (I think) to the Entertainer song. 
- I had to look up the frequencies using ChatGPT.
+ I had to look up the frequencies using ChatGPT. -Hannah snyderburn
 ******************************************************************************/
 // Which pin the buzzer is attached to
 int buzzerPin = 2;
