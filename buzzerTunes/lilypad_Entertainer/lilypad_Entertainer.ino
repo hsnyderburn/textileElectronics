@@ -1,5 +1,5 @@
 /******************************************************************************
-LilyPad Musci Buzzer Example
+Originally from LilyPad Musci Buzzer Example
 --By KOOKYE
 
 This example code shows how to hook up a LilyPad Buzzer to play a simple song 
@@ -8,6 +8,9 @@ using the tone() function and setting variables for each note.
 Buzzer connections:
    * + pin to 2
    * - to -
+   * 
+ I went and customized the tune from a basic scale walkthrough in C-major (I think) to the Entertainer song. 
+ I had to look up the frequencies using ChatGPT.
 ******************************************************************************/
 // Which pin the buzzer is attached to
 int buzzerPin = 2;
